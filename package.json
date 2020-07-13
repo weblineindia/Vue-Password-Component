@@ -1,12 +1,12 @@
 {
-  "name": "vue-weblineindia-password",
+  "name": "@weblineindia/vue-weblineindia-password",
   "version": "1.0.0",
   "description": "A Vue password component is provide to add password as a text/password property with validation.",
   "main": "./lib/password.vue",
   "author": "weblineindia",
   "license": "MLT",
-  "repository": "https://github.com/weblineindia/Vue-Password-Component",
-  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "repository": "https://github.com/weblineindia/Vue-Password-Component.git",
+  "homepage": "https://www.weblineindia.com/resources/vuejs-components-library.html",
   "keywords": [
     "vue-weblineindia-password",
    "password",
